@@ -1,0 +1,25 @@
+{
+  "name": "Twilio-Watson-Conversation-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaditya/Twilio-Watson-Conversation-.git"
+  },
+  "keywords": [],
+  "author": "Aditya Agarwal <adityaa803@gmail.com> (http://adi.surge.sh/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaditya/Twilio-Watson-Conversation-/issues"
+  },
+  "homepage": "https://github.com/itaditya/Twilio-Watson-Conversation-#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "twilio": "^3.6.7",
+    "watson-developer-cloud": "^2.39.0"
+  }
+}
